@@ -2,6 +2,24 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../DetailViewController.h">
+   </FileRef>
+   <FileRef
+      location = "group:../DetailViewController.m">
+   </FileRef>
+   <FileRef
+      location = "group:../CoffeeFinder/CoffeePlace.h">
+   </FileRef>
+   <FileRef
+      location = "group:../CoffeeFinder/CoffeePlace.m">
+   </FileRef>
+   <FileRef
+      location = "group:../ListViewController.h">
+   </FileRef>
+   <FileRef
+      location = "group:../ListViewController.m">
+   </FileRef>
+   <FileRef
       location = "self:CoffeeFinder.xcodeproj">
    </FileRef>
 </Workspace>
